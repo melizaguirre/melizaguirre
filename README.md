@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melizaguirre
+- 👋 Hi, I’m Melissa Izaguirre
 - 👀 I’m interested in Learn to program
 - 🌱 I am currently studying systems engineering
 - 💞️ Glad to collaborate
